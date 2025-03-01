@@ -4,6 +4,11 @@ type: Task
 projects:
   - COSCUP/11
 body:
+  - type: checkboxes
+    attributes:
+      label: 任務標題請追求言簡意賅
+      options:
+        - label: Yes
   - type: textarea
     attributes:
       label: 任務內容
