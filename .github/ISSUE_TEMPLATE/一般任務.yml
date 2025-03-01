@@ -3,4 +3,8 @@ description: 一般任務時，使用的 Template
 type: Task
 projects:
   - COSCUP/11
-body: []
+body:
+  - type: textarea
+    attributes:
+      label: 任務內容
+      description: 描述內容請追求團隊裡有兩個人以上可以完全看懂
