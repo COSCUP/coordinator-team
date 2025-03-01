@@ -1,0 +1,10 @@
+name: 草稿任務
+description: 事先規劃時，使用的 Template
+title: "[Draft]: "
+labels: draft
+type: Task
+body:
+  - type: textarea
+    attributes:
+      label: 任務內容
+      description: 描述內容請追求團隊裡有兩個人以上可以完全看懂
