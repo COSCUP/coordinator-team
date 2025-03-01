@@ -1,0 +1,6 @@
+name: 一般任務
+description: 一般任務時，使用的 Template
+labels: ''
+type: Task
+projects:
+  - COSCUP/11
