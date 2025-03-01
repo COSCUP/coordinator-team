@@ -1,0 +1,14 @@
+name: 公告
+description: 公告說明時，使用的 Template
+type: Task
+labels: 公告
+projects:
+  - COSCUP/11
+body:
+  - type: textarea
+    attributes:
+      label: 公告內容
+      description: 描述內容請追求團隊裡有兩個人以上可以完全看懂
+    validations:
+      required: true
+      
