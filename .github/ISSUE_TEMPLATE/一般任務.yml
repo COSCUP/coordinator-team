@@ -3,6 +3,8 @@ description: 一般任務時，使用的 Template
 type: Task
 projects:
   - COSCUP/11
+labels: 
+  - year:2025
 body:
   - type: markdown
     attributes:
