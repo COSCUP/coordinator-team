@@ -1,7 +1,9 @@
 name: 公告與說明
 description: 公告說明時，使用的 Template
 type: Task
-labels: 公告
+labels:
+  - 公告
+  - year:2025
 projects:
   - COSCUP/11
 body:
